@@ -4,7 +4,7 @@
       "PYTHON_VERSION": "3.14"
     }
   },
-  "buildCommand": "python -m pelican content -s publishconf.py",
+  "buildCommand": "python -m pelican content -s publishconf.py -v",
   "outputDirectory": "output",
   "cleanUrls": true
 }
