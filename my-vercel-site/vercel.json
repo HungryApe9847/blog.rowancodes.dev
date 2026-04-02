@@ -1,7 +1,6 @@
 {
   "cleanUrls": true,
-  "buildCommand": "pelican content -o output -s pelicanconf.py",
+  "buildCommand": "pip install pelican[markdown] --break-system-packages && python -m pelican content -o output -s pelicanconf.py",
   "outputDirectory": "output",
-  "installCommand": "pip install pelican[markdown]"
-
+  "installCommand": "pip install pelican[markdown] --break-system-packages"
 }
