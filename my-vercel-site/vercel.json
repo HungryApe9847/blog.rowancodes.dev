@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "buildCommand": "pelican content -o output -s pelicanconf.py",
+  "outputDirectory": "output",
+  "installCommand": "pip install pelican[markdown]"
+
+}

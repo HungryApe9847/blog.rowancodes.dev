@@ -1,0 +1,5 @@
+pelican-themes/
+output/
+venv/
+__pycache__/
+*.pyc
