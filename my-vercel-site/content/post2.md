@@ -1,7 +1,7 @@
 title: Scratch!
 date: 2026-04-04
 author: Rowan
-category: blog
+category: coding
 tags: scratch, amazing
 slug: 2
 #  I like Scratch.

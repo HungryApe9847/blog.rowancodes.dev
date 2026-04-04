@@ -1,7 +1,7 @@
 title: Hellooooo!
 date: 2026-04-02
 author: Rowan
-category: blog
+category: intro
 tags: first, lol
 slug: 1
 # Hello.
