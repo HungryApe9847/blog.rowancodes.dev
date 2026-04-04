@@ -3,7 +3,7 @@ date: 2026-04-04
 author: Rowan
 category: blog
 tags: scratch, amazing
-slug: 1
+slug: 2
 #  I like Scratch.
 If you don't know what Scratch is, go <a href = https://scratch.mit.edu>here</a> to see their
 site. It's basically a non-profit coding organisation for kids.\
