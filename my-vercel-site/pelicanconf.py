@@ -35,4 +35,5 @@ DEFAULT_PAGINATION = 15
 STATIC_PATHS = ['extra']
 EXTRA_PATH_METADATA = {
     'extra/icon1.png': {'path': 'icon1.png'},
+    'extra/nyan-cat.gif': {'path': 'nyan-cat.gif'},
 }
