@@ -19,15 +19,12 @@ THEME = "pelican-themes/bootstrap2-dark"
 # Blogroll
 LINKS = (
     ("Main Site", "https://rowancodes.dev/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("First Game on Site", "https://rowancodes.dev/slimesurvivors"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("Me on Scratch", "https://scratch.mit.edu/users/X-Robotic/"),
 )
 
 DEFAULT_PAGINATION = 15
