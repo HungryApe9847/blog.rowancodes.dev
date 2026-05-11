@@ -20,7 +20,7 @@ Pros:
 
 Cons:
 - Search doesn't do specific skins, it searches for skin tags.
-- Has less skins than skindex.
+- Has fewer skins than skindex.
 ## 3:
 ### Skindex Skins (https://www.minecraftskins.com/)
 Pros:
@@ -41,12 +41,15 @@ Cons:
 - The desktop installer is better than the manual site.
 - Some people don't use mods. (Obviously not me.)
 ## 1:
-### DigMinecraft Command Generator
+### DigMinecraft Command Generator (https://digminecraft.com)
 Pros:
 - Easy to use command generator.
-- Great for learning commands as a beginnner.
+- Great for learning commands as a beginner.
+- I used it loads for command generation when I was new to Minecraft.
 
 Cons:
 - Hard to continue learning after a point.
 
+
+### Note:
 PS: sorry, haven't been on for ages!
