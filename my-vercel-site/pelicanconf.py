@@ -19,7 +19,7 @@ THEME = "pelican-themes/bootstrap2-dark"
 # Blogroll
 LINKS = (
     ("Main Site", "https://rowancodes.dev/"),
-    ("First Game on Site", "https://rowancodes.dev/slimesurvivors"),
+    ("First Game on Site", "https://www.rowancodes.dev/godot-games/game1"),
 )
 
 # Social widget
