@@ -1,5 +1,5 @@
 Title: Page Not Found
-Slug: 404 Error
+Slug: 404-Error
 Status: hidden
 Save_as: 404.html
 URL: 404.html
