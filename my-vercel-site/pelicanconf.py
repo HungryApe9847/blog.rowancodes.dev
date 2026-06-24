@@ -14,7 +14,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-THEME = "pelican-themes/bootstrap2-dark"
+THEME = "themes/bootstrap2-dark"
 
 # Blogroll
 LINKS = (
