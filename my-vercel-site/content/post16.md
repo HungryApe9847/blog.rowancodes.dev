@@ -19,5 +19,5 @@ day 26! BYEE!
 <br><br>
 (PS: by the way the account that says student on it is an alt.)<br>
 (PPS: This python thing takes ages to do, by the way. I'm spending like an hour every day on this
-or more!)
+or more!)<br>
 (PPPS: This is the last one. BYEEE!)
